@@ -1,1 +1,1 @@
-# bucld2023_complex_motion_events_tid
+Repository for the talk "Morphophonology and Articulatory Energy in Expressing Complex Motion Events in Turkish Sign Language and Age of Acquisition Effects" by Kadir Gökgöz (Boğaziçi University, kadir.gokgoz@boun.edu.tr), Onur Keleş (Boğaziçi University, onurkeles.boun@gmail.com) & Emre Bilgili (Boğaziçi University, emre.bilgili@boun.edu.tr) presented in BUCLD 48.
